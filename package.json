@@ -1,0 +1,19 @@
+{
+  "name": "firebase_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c --bundleConfigAsCjs rollup.config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^9.16.0"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^15.0.1",
+    "rollup": "^3.12.1"
+  }
+}
