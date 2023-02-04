@@ -5,3 +5,5 @@ build
 .DS_Store
 ehthumbs.db
 Thumbs.db
+
+dist
